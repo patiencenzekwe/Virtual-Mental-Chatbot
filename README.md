@@ -42,7 +42,7 @@
 
 ## Installation
   Clone the Repository:
-  git clone https://github.com/your-username/your-repository.git
+  git clone https:
 
 ## Navigate to the Project Directory:
   cd "C:\Users\HP\OneDrive - University of Hertfordshire\Virtual Mental Chatbot"
