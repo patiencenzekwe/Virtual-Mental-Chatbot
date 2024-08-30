@@ -41,13 +41,10 @@
   Web Application: Streamlit
 
 ## Installation
-  Clone the Repository:
-  git clone https://github.com/patiencenzekwe/Virtual-Mental-Health-Chatbot.git
-
-## Navigate to the Project Directory:
+ ## Navigate to the Project Directory:
   cd "C:\Users\HP\OneDrive - University of Hertfordshire\Virtual Mental Chatbot"
 
-## Set Up a Virtual Environment:
+ ## Set Up a Virtual Environment:
   ## Install Virtual Environment
   pip install virtualenv
 
