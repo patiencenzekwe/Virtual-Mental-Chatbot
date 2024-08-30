@@ -1,4 +1,37 @@
-# mental-health-chatbot
+# Mental-Health-ChatBot
+A simple chatbot to offer some advices on mental health
+
+# Requirements
+
+## Install Virtual Environment
+  pip install virtualenv
+
+## Create a Virtual Environment
+  virtualenv venv
+  
+## Activate Virtual Environment
+  source venv/bin/activate
+  venv\Scripts\activate
+
+## Install Requirements
+  pip install tensorflow 
+  
+  pip install streamlit 
+  
+  pip install numpy 
+  
+  pip install keras 
+  
+  pip install nltk 
+  
+## Run Training File
+  python training.py
+  streamlit run new.py
+## Deploy on Flask
+  python app.py
+
+# Congatulations!!
+
 ## CAN AN INTELLIGENT CHATBOT PROVIDE EFFECTIVE MENTAL HEALTH SUPPORT USING NATURAL LANGUAGE PROCESSING (NLP)
 
 ## Table of Contents
