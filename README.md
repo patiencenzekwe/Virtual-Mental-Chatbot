@@ -42,7 +42,7 @@
 
 ## Installation
   Clone the Repository:
-  git clone https:
+  git clone https://github.com/patiencenzekwe/Virtual-Mental-Health-Chatbot.git
 
 ## Navigate to the Project Directory:
   cd "C:\Users\HP\OneDrive - University of Hertfordshire\Virtual Mental Chatbot"
