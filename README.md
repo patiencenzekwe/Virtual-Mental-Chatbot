@@ -111,7 +111,6 @@
  - model.h5: Directory containing trained model files
  - texts.pkl: Pickled file containing tokenized words.
  - labels.pkl: Pickled file containing output labels.
- - model.chatbot.keras: Trained model file used for predicting user intents.
 
 ## Limitations
  - Scope: The chatbot provides general responses and may not address complex or specific mental health issues effectively.
