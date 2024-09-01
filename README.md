@@ -120,8 +120,8 @@
 
 ## Acknowledgements
  I would like to express my sincere gratitude to the following individuals and organizations for their support and contributions to my **Virtual Mental Chatbot** project:
- - **[Michael Walters]**, my project supervisor, for his invaluable guidance, insightful feedback, and encouragement throughout the development of my project.
- - **[University of Hertfordshire]**, for providing the necessary resources and access to facilities that were crucial for the successful completion of my project.
- - **[Libraries and Tools]**, including NLTK, Keras, TensorFlow, and Streamlit, for their powerful tools and libraries that were instrumental in developing and deploying the chatbot
+ - **Michael Walters**, my project supervisor, for his invaluable guidance, insightful feedback, and encouragement throughout the development of my project.
+ - **University of Hertfordshire**, for providing the necessary resources and access to facilities that were crucial for the successful completion of my project.
+ - **Libraries and Tools**, including NLTK, Keras, TensorFlow, and Streamlit, for their powerful tools and libraries that were instrumental in developing and deploying the chatbot
 
  Your support and contributions have been greatly appreciated and were vital to the success of my project.
