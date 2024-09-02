@@ -98,7 +98,7 @@
 
  7. **Streamlit**: Provides a web-based user interface, allowing users to interact with the chatbot in real-time.
 
- 8. **TensorFlow**: Serves as the backend engine for Keras, handling neural network computations and optimizations to power the chatbot's machine learning capabilities.
+ 8. **TensorFlow**: Serves as the backend engine for Keras, handling neural network computations and optimizations to power the chatbot's machine-learning capabilities.
 
 ## Project Structure
  - venv: Virtual environment directory.
