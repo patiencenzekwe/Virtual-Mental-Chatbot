@@ -66,7 +66,7 @@
  # Details:
  - Data Preparation: Tokenizes and lemmatizes text data.
  - Model Training: Builds and trains a neural network with Keras.
- - Output: Saves the trained model to model.chatbot.keras.
+ - Output: Saves the trained model to (model.h5).
 
 ## Run the Application
  - Launch the Streamlit application to interact with the chatbot.
